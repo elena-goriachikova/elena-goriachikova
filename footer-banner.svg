@@ -1,0 +1,9 @@
+<svg width="100%" viewBox="0 0 680 120" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Footer banner with quote</title>
+<desc>Light background footer banner with larger font</desc>
+
+<rect width="680" height="120" fill="#F5F5F5" rx="0"/>
+
+<text x="340" y="48" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-style="italic" fill="#303841">"20 years untangling enterprise complexity.</text>
+<text x="340" y="82" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-style="italic" fill="#FF5722">Now building the agents that do it faster."</text>
+</svg>
