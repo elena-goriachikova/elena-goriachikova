@@ -56,5 +56,4 @@ What hasn't changed: I still think the most important skill in product is knowin
 
 
 
-*"20 years untangling enterprise complexity. Now building the agents that do it faster."*
-<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=F5F5F5&height=6&section=footer&stroke=76ABAE&strokeWidth=2"/>
+![footer](./footer-banner.svg)
