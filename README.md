@@ -1,6 +1,7 @@
+![banner](./banner.svg)
 # Elena Goriachikova
 
-**Senior PM & BA → AI Agent Strategist**
+**Senior PM & Lead BA → AI Agent Strategist**
 
 20+ years untangling enterprise complexity across Ecom, Retail, Healthcare, Banking, Telecom and Pharma.
 These days I'm less interested in speccing features and more interested in building agents that actually do the work.
