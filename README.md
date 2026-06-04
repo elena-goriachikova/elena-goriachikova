@@ -6,7 +6,7 @@
 20+ years untangling enterprise complexity across Ecom, Retail, Healthcare, Banking, Telecom and Pharma.
 These days I'm less interested in speccing features and more interested in building agents that actually do the work.
 
-<img height="4" width="100%" src="https://img.shields.io/badge/--%20-FF5722?style=flat&labelColor=FF5722&color=FF5722"/>
+
 
 ### What I'm building right now
 
@@ -14,7 +14,7 @@ These days I'm less interested in speccing features and more interested in build
 
 A Telegram bot + web dashboard that simulates real job interviews using your actual CV and job description. Personalised questions, structured feedback, Executive Language scoring, session analytics. Built on Python + Claude API. Not a prototype — a working product I use myself.
 
-<img height="4" width="100%" src="https://img.shields.io/badge/--%20-FF5722?style=flat&labelColor=FF5722&color=FF5722"/>
+
 
 ### Background
 
@@ -24,7 +24,7 @@ What's changed: I now integrate AI into how I work, not just what I build. On my
 
 What hasn't changed: I still think the most important skill in product is knowing which problem is actually worth solving.
 
-<img height="4" width="100%" src="https://img.shields.io/badge/--%20-FF5722?style=flat&labelColor=FF5722&color=FF5722"/>
+
 
 ### Tech & tools
 
@@ -44,16 +44,17 @@ What hasn't changed: I still think the most important skill in product is knowin
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 
-<img height="4" width="100%" src="https://img.shields.io/badge/--%20-FF5722?style=flat&labelColor=FF5722&color=FF5722"/>
+
 
 ### GitHub activity
 
 ![Elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=elena-goriachikova&show_icons=true&hide_border=true&theme=default&hide=stars&count_private=true)
 
-<img height="4" width="100%" src="https://img.shields.io/badge/--%20-FF5722?style=flat&labelColor=FF5722&color=FF5722"/>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/elena-goriachikova-4a6b8b4)
 
-<img height="4" width="100%" src="https://img.shields.io/badge/--%20-FF5722?style=flat&labelColor=FF5722&color=FF5722"/>
+
 
 *"20 years untangling enterprise complexity. Now building the agents that do it faster."*
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=F5F5F5&height=6&section=footer&stroke=76ABAE&strokeWidth=2"/>
