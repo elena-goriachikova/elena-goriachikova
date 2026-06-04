@@ -48,7 +48,7 @@ Conversation design  → how humans actually talk to agents
 
 ## 🔗 Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elena-goriachikova-4a6b8b4/)
 
 ---
 
