@@ -18,8 +18,10 @@ Not a prototype. A working product.
 ## 🧠 What I bring
 
 ```
-Enterprise scale     → 20+ years, clients: BT Group · AIB · Primark · Janssen · Henry Schein
+Enterprise scale     → 20+ years · retail, healthcare, banking, telecom, pharma
+                       clients: BT Group · AIB · Primark · Janssen · Henry Schein · Bosch · Royal Mail
 AI agent design      → product thinking + system architecture + real shipping
+AI-augmented delivery → GenAI tools integrated into discovery, research & requirements
 Python               → building, not just speccing
 Conversation design  → how humans actually talk to agents
 ```
@@ -33,9 +35,14 @@ Conversation design  → how humans actually talk to agents
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat&logo=telegram&logoColor=white)
 ![SAP Commerce](https://img.shields.io/badge/SAP_Commerce-0FAAFF?style=flat&logo=sap&logoColor=white)
+![Commercetools](https://img.shields.io/badge/Commercetools-1AD6FF?style=flat&logo=commercetools&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat&logo=shopify&logoColor=white)
 ![Sitecore](https://img.shields.io/badge/Sitecore-FF1F38?style=flat&logo=sitecore&logoColor=white)
 ![AEM](https://img.shields.io/badge/Adobe_AEM-FF0000?style=flat&logo=adobe&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=flat&logo=miro&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 
@@ -43,9 +50,9 @@ Conversation design  → how humans actually talk to agents
 
 ## 📌 Currently
 
-- 🔨 Building Cara Coach (Python + Claude API)
-- 📚 Studying AI agent architecture & agentic system design
-- 🎯 Targeting Agent Strategist roles at AI-native companies
+- 🔨 Building Cara Coach: AI-powered interview preparation agent
+- 🧩 Exploring agentic system design patterns and LLM orchestration
+- 📐 Applying AI-augmented discovery on enterprise engagements
 - 📍 Based in London
 
 ---
@@ -56,4 +63,4 @@ Conversation design  → how humans actually talk to agents
 
 ---
 
-*"The best way to understand AI agents is to build one."*
+*"20 years untangling enterprise complexity. Now building the agents that do it faster"*
