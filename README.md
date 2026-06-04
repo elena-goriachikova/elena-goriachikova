@@ -1,7 +1,5 @@
 ![banner](./banner.svg)
-# Elena Goriachikova
 
-**Senior PM & Lead BA → AI Agent Strategist**
 
 20+ years untangling enterprise complexity across Ecom, Retail, Healthcare, Banking, Telecom and Pharma.
 These days I'm less interested in speccing features and more interested in building agents that actually do the work.
@@ -48,7 +46,7 @@ What hasn't changed: I still think the most important skill in product is knowin
 
 ### GitHub activity
 
-![Elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=elena-goriachikova&show_icons=true&hide_border=true&theme=default&hide=stars&count_private=true)
+
 
 
 
