@@ -1,8 +1,8 @@
-# Hi, I'm Liora 👋
+# Hi, I'm Elena 👋
 
-**Senior Product Manager & Business Analyst → AI Agent Strategist**
+**Senior Product Manager & Lead Business Analyst → AI Agent Strategist**
 
-I spent 20+ years helping enterprises untangle complexity — retail, healthcare, banking, telecom, pharma.
+I spent 20+ years helping enterprises untangle complexity — Ecom, Retail, Healthcare, Banking, Telecom, Pharma.
 Now I'm focused on what's next: AI agents that actually work in the real world.
 
 ---
