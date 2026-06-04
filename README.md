@@ -1,34 +1,31 @@
-# Hi, I'm Elena 👋
+# Elena Goriachikova
 
-**Senior Product Manager & Lead Business Analyst → AI Agent Strategist**
+**Senior PM & BA → AI Agent Strategist**
 
-I spent 20+ years helping enterprises untangle complexity — Ecom, Retail, Healthcare, Banking, Telecom, Pharma.
-Now I'm focused on what's next: AI agents that actually work in the real world.
-
----
-
-## 🤖 What I'm building
-
-**[Cara Coach](https://github.com/YOUR_USERNAME/cara-coach)** — an AI-powered interview preparation agent  
-Built on Python + Claude API. Telegram bot + web dashboard. Full session tracking, transcript export, smart feedback modes.  
-Not a prototype. A working product.
+20+ years untangling enterprise complexity across Ecom, Retail, Healthcare, Banking, Telecom and Pharma.
+These days I'm less interested in speccing features and more interested in building agents that actually do the work.
 
 ---
 
-## 🧠 What I bring
+### What I'm building right now
 
-```
-Enterprise scale     → 20+ years · retail, healthcare, banking, telecom, pharma
-                       clients: BT Group · AIB · Primark · Janssen · Henry Schein · Bosch · Royal Mail
-AI agent design      → product thinking + system architecture + real shipping
-AI-augmented delivery → GenAI tools integrated into discovery, research & requirements
-Python               → building, not just speccing
-Conversation design  → how humans actually talk to agents
-```
+**[Cara Coach](https://github.com/elena-goriachikova/cara-coach)** — an AI-powered interview preparation agent
+
+A Telegram bot + web dashboard that simulates real job interviews using your actual CV and job description. Personalised questions, structured feedback, Executive Language scoring, session analytics. Built on Python + Claude API. Not a prototype — a working product I use myself.
 
 ---
 
-## 🛠 Tech & tools
+### Background
+
+I've shipped products at scale with teams of 110+ across distributed programs — BT Group, Primark, AIB, Janssen, Bosch, Royal Mail, Henry Schein.
+
+What's changed: I now integrate AI into how I work, not just what I build. On my last engagement (Primark, MarTech discovery) I used GenAI to run extended capability research and compress a 6-week analysis into days.
+
+What hasn't changed: I still think the most important skill in product is knowing which problem is actually worth solving.
+
+---
+
+### Tech & tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
@@ -48,19 +45,14 @@ Conversation design  → how humans actually talk to agents
 
 ---
 
-## 📌 Currently
+### GitHub activity
 
-- 🔨 Building Cara Coach: AI-powered interview preparation agent
-- 🧩 Exploring agentic system design patterns and LLM orchestration
-- 📐 Applying AI-augmented discovery on enterprise engagements
-- 📍 Based in London
+![Elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=elena-goriachikova&show_icons=true&hide_border=true&theme=default&hide=stars&count_private=true)
 
 ---
 
-## 🔗 Find me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elena-goriachikova-4a6b8b4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/elena-goriachikova-4a6b8b4)
 
 ---
 
-*"20 years untangling enterprise complexity. Now building the agents that do it faster"*
+*"20 years untangling enterprise complexity. Now building the agents that do it faster."*
