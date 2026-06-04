@@ -34,6 +34,10 @@ Conversation design  → how humans actually talk to agents
 ![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat&logo=telegram&logoColor=white)
 ![SAP Commerce](https://img.shields.io/badge/SAP_Commerce-0FAAFF?style=flat&logo=sap&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![Sitecore](https://img.shields.io/badge/Sitecore-FF1F38?style=flat&logo=sitecore&logoColor=white)
+![AEM](https://img.shields.io/badge/Adobe_AEM-FF0000?style=flat&logo=adobe&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 
 ---
 
