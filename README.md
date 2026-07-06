@@ -8,8 +8,14 @@
 ### [Sweepster](https://github.com/elena-goriachikova/sweepster)
 
 **Explainable GenAI career intelligence for vacancy matching and career direction discovery**  
-[GitHub repository →](https://github.com/elena-goriachikova/sweepster) · [Live product architecture site →](https://elena-goriachikova.github.io/sweepster/)
-
+<p>
+  <a href="https://github.com/elena-goriachikova/sweepster">
+    <img src="https://img.shields.io/badge/GitHub_repository-0B1722?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repository" />
+  </a>
+  <a href="https://elena-goriachikova.github.io/sweepster/">
+    <img src="https://img.shields.io/badge/Live_product_architecture_site-00A9B7?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live product architecture site" />
+  </a>
+</p>
 Sweepster is a product architecture case study for an AI-native vacancy matching system. It turns messy job descriptions into explainable, scored matches against a candidate capability profile, showing why a role matches, why not higher, what is a real gap, and what is still unknown.
 
 It demonstrates the kind of AI systems work I’m moving towards: agentic workflow design, LLM-assisted requirement extraction, modular pipeline architecture, no-imputation logic, human-in-the-loop questions, reversible feedback learning, and schema-first implementation thinking.
@@ -17,7 +23,11 @@ It demonstrates the kind of AI systems work I’m moving towards: agentic workfl
 ### [Cara Coach](https://github.com/elena-goriachikova/cara-coach)
 
 **AI-powered interview preparation agent**  
-[GitHub repository →](https://github.com/elena-goriachikova/cara-coach)
+<p>
+  <a href="https://github.com/elena-goriachikova/cara-coach">
+    <img src="https://img.shields.io/badge/GitHub_repository-0B1722?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repository" />
+  </a>
+</p>
 
 A Telegram bot + web dashboard that simulates real job interviews using your actual CV and job description. Personalised questions, structured feedback, Executive Language scoring, session analytics. Built on Python + Claude API. Not a prototype — a working product I use myself.
 ### Background
