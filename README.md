@@ -1,8 +1,7 @@
 ![banner](./banner.svg)
 
 
-20+ years untangling enterprise complexity across Ecom, Retail, Healthcare, Banking, Telecom and Pharma.
-These days I'm less interested in speccing features and more interested in building agents that actually do the work.
+20+ years untangling enterprise complexity across Ecom, Retail, Healthcare, Banking, Telecom and Pharma. These days I’m focused on turning that experience into AI systems and agents that can do useful work in real-world enterprise contexts.
 
 
 
