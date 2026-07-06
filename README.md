@@ -10,7 +10,7 @@ These days I'm less interested in speccing features and more interested in build
 
 [**Sweepster**](https://github.com/elena-goriachikova/sweepster) — explainable GenAI career intelligence for vacancy matching and career direction discovery
 
-Sweepster is a product architecture case study for an AI-native vacancy matching system. It turns messy job descriptions into explainable, scored matches against a candidate capability profile — showing why a role matches, why not higher, what is a real gap, and what is still unknown.
+Sweepster is a product architecture case study for an AI-native vacancy matching system. It turns messy job descriptions into explainable, scored matches against a candidate capability profile, showing why a role matches, why not higher, what is a real gap, and what is still unknown.
 
 It demonstrates the kind of AI systems work I’m moving towards: agentic workflow design, LLM-assisted requirement extraction, modular pipeline architecture, no-imputation logic, human-in-the-loop questions, reversible feedback learning, and schema-first implementation thinking.
 
