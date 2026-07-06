@@ -8,8 +8,6 @@ These days I'm less interested in speccing features and more interested in build
 
 ### What I'm building right now
 
-## What I'm building right now
-
 [**Sweepster**](https://github.com/elena-goriachikova/sweepster) — explainable GenAI career intelligence for vacancy matching and career direction discovery  
 [Live product architecture site →](https://elena-goriachikova.github.io/sweepster/)
 
