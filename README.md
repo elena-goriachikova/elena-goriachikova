@@ -28,7 +28,7 @@ A Telegram bot + web dashboard that simulates real job interviews using your act
 
 I've shipped products at scale with teams of 110+ across distributed programs — BT Group, Primark, AIB, Janssen, Bosch, Royal Mail, Henry Schein.
 
-What's changed: I now integrate AI into how I work, not just what I build. On my last engagement (Primark, MarTech discovery) I used GenAI to run extended capability research and compress a 6-week analysis into days.
+What's changed: I now integrate AI into how I work, not just what I build. On recent Primark engagements, I used GenAI to accelerate capability research, synthesis and product discovery across complex enterprise datasets.
 
 What hasn't changed: I still think the most important skill in product is knowing which problem is actually worth solving.
 
